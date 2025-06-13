@@ -2,6 +2,54 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# 💬 Aiva – Your Advanced Virtual Assistant
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+> Aiva is a sleek, futuristic **personal virtual assistant** built using **React.js** and **Vite**.  
+> It listens to your voice, understands your prompts, fetches AI-powered responses using **Gemini API**, and replies back with synthesized speech.
+
+---
+
+## 📸 Preview
+
+<img src="./public/aiva-screenshot.png" alt="Aiva Screenshot" width="600"/>
+
+---
+
+## 🌟 Features
+
+- 🎙️ Voice input using **Web Speech API**
+- 🧠 AI-powered response using **Gemini (or other LLMs)**
+- 🔊 Speech synthesis using browser’s **Text-to-Speech**
+- 💡 Responsive, futuristic UI
+- ⚡ Blazing fast with **Vite**
+
+---
+
+## 🧱 Tech Stack
+
+| Layer         | Tech Stack              |
+|--------------|--------------------------|
+| **Frontend**  | React.js, Vite           |
+| **Styling**   | CSS  |
+| **Voice I/O** | Web Speech API           |
+| **AI API**    |Google Gemini API or LLM APIs   |
+
+---
+
+## 🔧 Setup & Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/aiva-virtual-assistant.git
+cd aiva-virtual-assistant
+
+
 ## Available Scripts
 
 In the project directory, you can run:
