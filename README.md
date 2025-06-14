@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 📸 Preview
 
-<img src="./public/aiva-screenshot.png" alt="Aiva Screenshot" width="600"/>
+[!link](https://sahilvirtualassistant.netlify.app/)
 
 ---
 
